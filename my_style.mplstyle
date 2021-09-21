@@ -4,7 +4,9 @@ font.size : 15
 xtick.labelsize : small
 ytick.labelsize : small
 legend.fontsize : small
-axes.spines.top : False
-axes.spines.right : False
+axes.spines.top : True
+axes.spines.right : True
 xtick.major.size : 5
 ytick.major.size : 5
+xtick.direction : 'in'
+ytick.direction : 'in'
