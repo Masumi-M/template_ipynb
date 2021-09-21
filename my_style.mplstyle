@@ -8,5 +8,5 @@ axes.spines.top : True
 axes.spines.right : True
 xtick.major.size : 5
 ytick.major.size : 5
-xtick.direction : 'in'
-ytick.direction : 'in'
+xtick.direction : in
+ytick.direction : in
